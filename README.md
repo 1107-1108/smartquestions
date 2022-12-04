@@ -1,5 +1,7 @@
-此文档用于问问题教学
+本仓库文档是用于提交issue,PullRequest等场景下的提问建议
 
-如要转载/使用，请注明原作者(1107)
+基于SmartQuestions(By 1107_1108)制作
 
-允许二创,也请注明原作者（1107）
+不定时Pull Request与更新
+
+使用需注明原作者与本分支作者,并遵守Mozilla Public License 2.0许可
